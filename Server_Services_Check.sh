@@ -1,0 +1,50 @@
+Check server startup for cups
+service cups stop
+chkconfig cups off
+service xfs stop
+chkconfig xfs off
+service nfslock stop
+chkconfig nfslock off
+service canna stop
+chkconfig canna off
+service FreeWnn stop
+chkconfig FreeWnn off
+service cups-config-daemon stop
+chkconfig cups-config-daemon off
+service iiim stop
+chkconfig iiim off
+service mDNSResponder stop
+chkconfig mDNSResponder off
+service nifd stop
+chkconfig nifd off
+service rpcidmapd stop
+chkconfig rpcidmapd off
+service bluetooth stop
+chkconfig bluetooth off
+service anacron stop
+chkconfig anacron off
+service gpm stop
+chkconfig gpm off
+service saslauthd stop
+chkconfig saslauthd off
+service avahi-daemon stop
+chkconfig avahi-daemon off
+service avahi-dnsconfd stop
+chkconfig avahi-dnsconfd off
+service hidd stop
+chkconfig hidd off
+service pcscd stop
+chkconfig pcscd off
+service sbadm stop
+chkconfig sbadm off
+service xinetd stop
+chkconfig xinetd off
+service qpidd stop
+chkconfig qpidd off
+service portreserve stop
+chkconfig portreserve off
+service rpcbind stop
+chkconfig rpcbind off
+
+
+

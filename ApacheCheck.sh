@@ -1,0 +1,9 @@
+Check_apache_version() {}
+Check_apache_for_ModSecurity() {}
+Check_apache_for_mod_cloudflare() {}
+Check_apache_for_FrontPage() {}
+Check_Apache_weak_SSL-TLS_Ciphers_(SSLCipherSuite)() {}
+Check_apache_for_TraceEnable() {}
+Check_apache_for_ServerSignature() {}
+Check_apache_for_ServerTokens() {}
+Check_apache_for_FileETag() {}
