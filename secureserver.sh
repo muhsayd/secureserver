@@ -7,7 +7,7 @@ SSH-Telnet_Check() {}
 
 Mail_Check() {}
 
-Apache Check() {}
+Apache_Check() {}
 
 PHP_Check() {}
 
